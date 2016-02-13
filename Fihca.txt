@@ -1,2 +1,2 @@
-Goodbye
-Goodbye world
+Print("Goodbye")
+Print("Goodbye world")
